@@ -1,2 +1,1 @@
 # ChatApp
-SignalR hub
